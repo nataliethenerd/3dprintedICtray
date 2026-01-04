@@ -1,7 +1,8 @@
 # 3D printed IC tray
 A parametric FreeCad file to make 3D printed IC tray, based off JEDEC trays
 
-<img width="1756" height="1195" alt="image" src="https://github.com/user-attachments/assets/f05cc7e5-37fe-4d1a-90bb-1de4bf585ed7" />
+<img width="1070" height="897" alt="image" src="https://github.com/user-attachments/assets/0a701e62-62e5-4947-bd03-8922889e1afe" />
+
 
 ### How it Works
 
