@@ -9,3 +9,8 @@ A parametric FreeCad file to make 3D printed IC tray, based off JEDEC trays
 Using the varset, you can customise the tray based off the dimensions. Dimensions are in mm.
 
 <img width="1093" height="780" alt="image" src="https://github.com/user-attachments/assets/0c51d96d-58fd-44b6-a8d5-f29eea2e9f14" />
+
+
+
+https://github.com/user-attachments/assets/fca2b18f-1eb5-486b-9ed3-eea144564487
+
